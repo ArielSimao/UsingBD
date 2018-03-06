@@ -1,0 +1,486 @@
+[
+    {
+        "outputFile": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 57,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endColumn": 55,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 52,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 52,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 56,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 39,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 39,
+                        "endOffset": 1053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 52,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 46,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 46,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 48,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 48,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 511,
+                    "endColumn": 46,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1103,
+                        "endColumn": 46,
+                        "endOffset": 1145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endColumn": 44,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 44,
+                        "endOffset": 1098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 44,
+                    "endOffset": 643
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 44,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 648,
+                    "endColumn": 42,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 42,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 41,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 976,
+                        "endColumn": 41,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 733,
+                    "endColumn": 40,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 40,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 43,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 43,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 47,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 47,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 44,
+                    "endOffset": 906
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 44,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 911,
+                    "endColumn": 80,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 80,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 64,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 64,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 82,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 82,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1140,
+                    "endColumn": 84,
+                    "endOffset": 1220
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 643,
+                        "endColumn": 84,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1225,
+                    "endColumn": 80,
+                    "endOffset": 1301
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endColumn": 80,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1306,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1592
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1597,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1752
+                },
+                "from": {
+                    "file": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

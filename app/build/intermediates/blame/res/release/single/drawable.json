@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/build/intermediates/res/merged/release/drawable/shpfundo.xml",
+        "source": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/drawable/shpfundo.xml"
+    },
+    {
+        "merged": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/build/intermediates/res/merged/release/drawable/shpbotao.xml",
+        "source": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/drawable/shpbotao.xml"
+    },
+    {
+        "merged": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/build/intermediates/res/merged/release/drawable/selbotao.xml",
+        "source": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/drawable/selbotao.xml"
+    },
+    {
+        "merged": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/build/intermediates/res/merged/release/drawable/shpbotaopressionado.xml",
+        "source": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/drawable/shpbotaopressionado.xml"
+    }
+]

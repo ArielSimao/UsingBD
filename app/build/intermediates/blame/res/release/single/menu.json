@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/build/intermediates/res/merged/release/menu/todos_livros.xml",
+        "source": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/menu/todos_livros.xml"
+    },
+    {
+        "merged": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/build/intermediates/res/merged/release/menu/editar_autores.xml",
+        "source": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/menu/editar_autores.xml"
+    },
+    {
+        "merged": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/build/intermediates/res/merged/release/menu/todos_autores.xml",
+        "source": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/menu/todos_autores.xml"
+    },
+    {
+        "merged": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/build/intermediates/res/merged/release/menu/todos_editoras.xml",
+        "source": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/menu/todos_editoras.xml"
+    },
+    {
+        "merged": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/build/intermediates/res/merged/release/menu/login.xml",
+        "source": "/Users/DjAriel/Documents/AndroidAriel/009_BancoDeDados_Uso/app/src/main/res/menu/login.xml"
+    }
+]

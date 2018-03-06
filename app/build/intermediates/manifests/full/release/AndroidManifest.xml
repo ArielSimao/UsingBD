@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.edu.fatecmm.passagemdeparametros"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="br.edu.fatecmm.passagemdeparametros.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.edu.fatecmm.passagemdeparametros.Menu"
+            android:label="@string/title_activity_login"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="br.edu.fatecmm.passagemdeparametros.TodosAutores"
+            android:label="@string/title_activity_todos_autores" >
+        </activity>
+        <activity
+            android:name="br.edu.fatecmm.passagemdeparametros.TodosEditoras"
+            android:label="@string/title_activity_todos_editoras" >
+        </activity>
+        <activity
+            android:name="br.edu.fatecmm.passagemdeparametros.TodosLivros"
+            android:label="@string/title_activity_todos_livros" >
+        </activity>
+        <activity
+            android:name="br.edu.fatecmm.passagemdeparametros.EditarAutores"
+            android:label="@string/title_activity_editar_autores" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colCinza">#DDDDDD</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Melhorando o Visual</string>
+    <string name="btrBio">Bio:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="strAutores">Autores</string>
+    <string name="strEditoras">Editoras</string>
+    <string name="strExcluir">Excluir</string>
+    <string name="strGravar">Gravar</string>
+    <string name="strLivros">Livros</string>
+    <string name="strLogin">Login</string>
+    <string name="strNome">Nome:</string>
+    <string name="strNovo">Novo</string>
+    <string name="strSenha">Senha:</string>
+    <string name="strUsuario">Usuário:</string>
+    <string name="strVoltar">Voltar</string>
+    <string name="title_activity_editar_autores">Editar/Incluir Autores</string>
+    <string name="title_activity_login">Menu do Sistema</string>
+    <string name="title_activity_todos_autores">Todos Autores Cadastrados</string>
+    <string name="title_activity_todos_editoras">Todos Editoras Cadastradas</string>
+    <string name="title_activity_todos_livros">Todos Livros Cadastrados</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
